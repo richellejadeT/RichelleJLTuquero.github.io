@@ -2,5 +2,5 @@ languageCode = 'en-us'
 title = 'RJLTuquero'
 
 theme = "blowfish"
-baseURL = "https://richellejadet.github.io/RichelleJLTuquero.github.io/"
+baseURL = "https://richellejadet.github.io/"
 defaultContentLanguage = "en"
